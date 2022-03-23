@@ -57,7 +57,9 @@ function nbYear(p0, percent, aug, p) {
 ---
 
 Java, Python - (was in progress) - [Code Basics](https://ru.code-basics.com/)
+
 HTML, Javascript courses - [Bogdan Stashchuk](https://www.youtube.com/c/CodingTutorials/videos)
+
 CSS + 5-day marathon - [Владилен Минин](https://www.youtube.com/c/VladilenMinin/featured)
 
 ## Languages
@@ -65,4 +67,5 @@ CSS + 5-day marathon - [Владилен Минин](https://www.youtube.com/c/V
 ---
 
 English - B1-B2 level
+
 Russian - native speaker
