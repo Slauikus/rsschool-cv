@@ -2,19 +2,21 @@
 
 ---
 
-# **Viachaslau Skudny**
+# Viachaslau Skudny
 
 ## Contact Info
 
 ---
 
-#### **Phone:** +375 29 374 59 69
+#### Phone: +375 29 374 59 69
 
-#### **E-mail:** slauikus@gmail.com
+#### E-mail: slauikus@gmail.com
 
-#### **GitHub:** [Slauikus](https://github.com/slauikus)
+#### GitHub: [Slauikus](https://github.com/slauikus)
 
-#### **Telegram:** @Slauikus
+#### Telegram: @Slauikus
+
+#### [LinkedIn](https://www.linkedin.com/in/%D0%B2%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2-%D1%81%D0%BA%D1%83%D0%B4%D0%BD%D1%8B%D0%B9-7005a2235/)
 
 ## About me
 
@@ -54,6 +56,7 @@ function nbYear(p0, percent, aug, p) {
 
 ---
 
+Java, Python - (was in progress) - [Code Basics](https://ru.code-basics.com/)
 HTML, Javascript courses - [Bogdan Stashchuk](https://www.youtube.com/c/CodingTutorials/videos)
 CSS + 5-day marathon - [Владилен Минин](https://www.youtube.com/c/VladilenMinin/featured)
 
