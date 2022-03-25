@@ -1,0 +1,49 @@
+body {
+  min-height: 50vh;
+  min-width: 80vh;
+  max-width: 100vh;
+  position: static;
+  margin: auto;
+  background-color: rgb(255, 255, 226);
+  box-shadow: 0px 0px 3px 3px rgb(94, 84, 58);
+}
+
+.sidebar {
+  position: static;
+  box-sizing: content-box;
+  min-height: 100vh;
+  width: 400px;
+  height: 100vh;
+  background-color: rgb(226, 226, 203);
+}
+
+.container {
+  position: relative;
+  box-sizing: content-box;
+  min-height: 100vh;
+  width: 500px;
+  background-color: rgb(255, 255, 226);
+  height: 100vh;
+}
+
+.main-info {
+  position: static;
+  margin-left: 10px;
+}
+
+.side-info {
+  position: static;
+  empty-cells: show;
+  min-width: 550px;
+}
+
+.info {
+  position: relative;
+  min-width: 50vh;
+  display: flex;
+}
+
+.contact-phone {
+  background-size: 30px;
+  background-image: url(icon-phone.png);
+}
