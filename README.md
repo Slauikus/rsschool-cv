@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Slauikus.github.io/rsschool-cv/
